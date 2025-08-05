@@ -8,5 +8,5 @@ React Investment Calculator
 ATTENTION: you must to have NPM package manager to run this commands
 <br/>
 <br/>
-# Project image:
+### Project image:
 <img src="https://hopson-investment-calculator.vercel.app/project-overview.png" alt = "Investment calculator image">
