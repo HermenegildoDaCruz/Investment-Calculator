@@ -1,4 +1,4 @@
-# Investment-Calculator
+## Investment-Calculator
 React Investment Calculator
 
 1. Run:(npm install) to install all necessary packages before run server
@@ -6,5 +6,7 @@ React Investment Calculator
 2. Run server with this command: (npm run dev)
 
 ATTENTION: you must to have NPM package manager to run this commands
-
-https://hopson-investment-calculator.vercel.app/project-overview.png
+<br/>
+<br/>
+# Project image:
+<img src="https://hopson-investment-calculator.vercel.app/project-overview.png" alt = "Investment calculator image">
